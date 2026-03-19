@@ -1,10 +1,12 @@
 # KATO Tutorials
 
-Interactive Jupyter notebook tutorials for [KATO](https://github.com/sevakavakians/kato) — a pattern recognition and sequence learning engine.
+Interactive Jupyter notebook tutorials for [KATO](https://github.com/sevakavakians/kato) — a deterministic machine learning engine offering complete transparency, observability, traceability and real-time editability.
+KATO adheres to Excite AI principles for Verification & Validation.
+https://medium.com/@sevakavakians/what-is-excite-ai-712afd372af4
 
 ## Contents
 
-- **`kato_tutorial.ipynb`** — Comprehensive tutorial covering KATO's core capabilities: sequence learning, pattern recognition, prediction, classification, and regression across multiple real-world datasets (telecom churn, California housing, auto MPG).
+- **`kato_tutorial.ipynb`** — Comprehensive tutorial covering KATO's core capabilities: sequence learning, pattern recognition, prediction, classification, and regression across multiple real-world datasets (telecom churn, handwritten character recognition, California housing, auto MPG, etc.).
 - **`data/`** — Datasets used by the tutorial (auto-mpg.csv, churn.csv).
 
 ## Prerequisites
